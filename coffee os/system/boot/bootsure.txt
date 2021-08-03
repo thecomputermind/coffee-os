@@ -1,0 +1,6 @@
+@echo off
+color 0a
+cls
+echo boot is sure!
+echo.
+echo COFFEE OS 1 HAS LOADED
