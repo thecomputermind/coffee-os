@@ -5,5 +5,5 @@ cls
 cls
 cd 
 dir
-echo file explorer is in early development, please expect errors!
+echo file explorer will be reworked for beta 1.00 (build 100) soon!
 pause

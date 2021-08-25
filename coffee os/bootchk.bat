@@ -10,7 +10,7 @@ if exist "coffee os\apps\files.bat" goto 2
 
 :2
 cls
-echo found apps, it is safe to go on
+echo found registries
 echo.
 echo press any key to start coffee os!
-pause>nul
+cls

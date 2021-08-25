@@ -5,17 +5,22 @@ cls
 cls
 echo booting!
 cd 
-if not exist bootchk.bat call ERRORS\noboot.bat
+if not exist "bootchk.bat" call "\ERRORS\noboot.bat"
 if exist bootchk.bat call bootchk.bat
-if not exist setup\setup.bat call ERRORS\setupfail.bat
-if not exist activate.txt call setup\setup.bat
-goto 1 
-:1
+if not exist "\setup\setup.bat" call "\ERRORS\setupfail.bat"
+goto booted
+:booted
+cls
+echo finished booting, it is safe to go on!
+pause>NUL
+goto start 
+:start
 cls
 echo coffee os 1! 
 echo.
 echo coffee os! powered by batch!
 echo.
+echo BETA PREVIEW
 pause
 goto menu
 
@@ -36,10 +41,19 @@ echo coffee os 1!
 echo.
 echo WRITTEN ON WINDOWS 11!
 echo.
-echo build 2k21y01 (version A01)
+echo build 1.00B PREVIEW (version B100P)
 echo.
 echo COFFEE OS 1! 
 echo.
+echo coming in beta (likely)
+echo.
+echo MORE APPS!
+echo.
+echo command line! (may be built in or an app...)
+echo.
+echo still trying to make setup work..
+echo.
+echo and more (in github)
 pause
 goto menu
 
