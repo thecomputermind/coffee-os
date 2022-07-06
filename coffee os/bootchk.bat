@@ -4,6 +4,7 @@ cls
 cls
 echo finding files.bat
 cd 
+if not exist "coffee os\apps\commands" call "coffee os\ERRORS\nofile.bat"
 if not exist "coffee os\apps\files.bat" call "coffee os\ERRORS\nofile.bat"
 if exist "coffee os\apps\files.bat" goto 2
 

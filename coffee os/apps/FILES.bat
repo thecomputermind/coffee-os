@@ -5,5 +5,5 @@ cls
 cls
 cd 
 dir
-echo file explorer will be reworked for beta 1.00 (build 100) soon!
+echo i cannot rework this crappy thing
 pause

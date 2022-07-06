@@ -1,0 +1,6 @@
+@echo off
+color 40
+cls 
+:ERROR
+echo YOU FOUND THE SECRET FILE! YOU GET NOTHING!
+goto error
