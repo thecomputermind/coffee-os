@@ -1,16 +1,9 @@
-im working on an update
-100% going to add:
-new apps (no games)
-removing commands.
-time at the start screen.
-may add:
-a game!!
-text editor!
-app installation system (an app to download apps)
-maybe a coffee os chatbot thing.
-users, gonna be hard, but ok.
+UPDATE!!!!!!!
+APPDATA IS GONNA GO INSIDE THE APPS FILE, SO EXPECT FILES WITH APPS!
+COMMANDS ARE COMING BACK!!
+BUGS FIXED.. or grown..
+added an update list in the main coffee os batch file!!!!
 
-
-im not sure if i will add anything, but im planning on some stuff (i fucking hate the directory system)
-
-no idea really, just gotta see.
+not much, but i guess it is something that keeps you knowing that i am not dead.
+thanks!
+(i wanted to add time, but it wasnt gonna work on me)
