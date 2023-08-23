@@ -14,3 +14,6 @@ the python beta is VERY unstable and buggy. i used chatgpt because i am ass and 
 timeline:
 2024- hopeful rewrite successful and has 75% of features. python rewrite may take to 2025.
 2026 i hope i can learn C
+
+
+yes guys i have been working on an update until i had to reset my computer. setting me back 3 months.
